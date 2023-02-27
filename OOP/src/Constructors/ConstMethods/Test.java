@@ -9,6 +9,8 @@ public class Test {
 
 
 
+
+
         // Account account2 = new Account("12345678", 1000.0, "Firat Akkoc","@gmail.com","1234567890");
 
         // account2.paraCekme(1550);
