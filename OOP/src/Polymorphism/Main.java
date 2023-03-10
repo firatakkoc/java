@@ -1,5 +1,18 @@
 package Polymorphism;
 
+
+/*
+Java'da instanceof, bir nesnenin belirli bir sınıfın örneği olup olmadığını kontrol etmek için kullanılan bir anahtar sözcüktür.
+
+if (nesne instanceof SinifAdi) {
+  // nesne, SinifAdi sınıfının örneğidir
+}
+
+Özellikle bir nesnenin, bir sınıfın alt sınıfı olup olmadığını veya bir arabirim tarafından uygulandığını belirlemek için kullanılır.
+
+
+ */
+
 // Super Class Olusturduk;
 class Hayvan {
     private String isim;
