@@ -1,5 +1,11 @@
 package AbstactClass;
 
+/*Abstract class ve abstract method, 
+bir soyutlama mekanizması olarak kullanılır ve genellikle alt sınıfların 
+belirli bir kalıba veya işleme göre uygulanmasını sağlar.  */
+
+
+
 public class Main {
     public static void main(String[] args) {
 
