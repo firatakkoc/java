@@ -1,4 +1,4 @@
-package Constructors.NewConstructors.Suchler;
+package Constructors.NewConstructors.Schuler;
 
 public class Schuler {
 

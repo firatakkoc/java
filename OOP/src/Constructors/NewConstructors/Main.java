@@ -1,6 +1,6 @@
 package Constructors.NewConstructors;
 
-import Constructors.NewConstructors.Suchler.Schuler;
+import Constructors.NewConstructors.Schuler.Schuler;
 
 public class Main {
     public static void main(String[] args) {
