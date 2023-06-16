@@ -23,6 +23,6 @@ public class Colors {
         System.out.println("\u001B[31;1mBu metin koyu kırmızı renkte ve kalın yazı stiline sahip.\u001B[0m");
         System.out.println("\u001B[32;4mBu metin yeşil renkte ve altı çizgili yazı stiline sahip.\u001B[0m");
         System.out.println("\u001B[33;9mBu metin sarı renkte ve çizgili yazı stiline sahip.\u001B[0m");
-        System.out.println("\u001B[34;7mBu metin mavi renkte ve ters çevrilmiş yazı stiline sahip.\u001B[0m");
+
     }
 }
